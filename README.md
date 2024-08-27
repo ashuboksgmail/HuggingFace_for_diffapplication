@@ -1,0 +1,2 @@
+Leveraged Hugging Face Transformers for various NLP tasks including text generation, sentiment analysis, speech-to-text, named entity recognition (NER), translation, question-answering, and summarization. 
+Built and fine-tuned models for specific use cases, implemented pipelines for real-time applications, and deployed solutions using pre-trained models like GPT-2, FinBERT, Wav2Vec2, and DistilBERT.
